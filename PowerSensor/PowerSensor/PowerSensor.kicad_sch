@@ -865,7 +865,7 @@
     (effects (font (size 4.27 4.27) (color 32 32 255 1)) (justify left bottom))
     (uuid 51a66cb4-86cc-4283-83f0-a0cd18888fd6)
   )
-  (text "inrush current protection \nvoltage divider" (at 121.92 25.4 0)
+  (text "inrush current protection \nvoltage divider" (at 121.92 30.48 0)
     (effects (font (size 3 3) (color 26 18 255 1)) (justify left bottom))
     (uuid 6257bf24-70d0-448d-99e2-5a234a8905c5)
   )
